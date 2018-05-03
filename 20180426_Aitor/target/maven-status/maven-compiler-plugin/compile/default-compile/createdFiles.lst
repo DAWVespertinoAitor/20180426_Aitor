@@ -1,0 +1,7 @@
+es\albarregas\filters\UTF8Filter.class
+es\albarregas\controllers\Controlador.class
+es\albarregas\utils\MyLogger.class
+es\albarregas\connections\ConnectionMySQL.class
+es\albarregas\controllers\Eleccion.class
+es\albarregas\controllers\Conclusion.class
+es\albarregas\beans\Ave.class
